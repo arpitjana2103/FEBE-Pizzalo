@@ -5,7 +5,7 @@ const expressLayout = require('express-ejs-layouts');
 const PORT = process.env.PORT || 3000;
 const app = express();
 
-app.get('/', function (res, req) {
+app.get('/', function (req, res) {
     res.render('home');
 });
 
