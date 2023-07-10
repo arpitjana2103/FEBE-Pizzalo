@@ -1,0 +1,9 @@
+{
+  "name": "febe-pizzalo",
+  "version": "1.0.0",
+  "description": "realtime pizza delivery app",
+  "main": "server.js",
+  "repository": "https://github.com/arpitJana21/FEBE-Pizzalo.git",
+  "author": "Arpit Jana <arpitjana2103@gmail.com>",
+  "license": "MIT"
+}
